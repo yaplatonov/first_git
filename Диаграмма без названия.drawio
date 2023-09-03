@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-03T06:38:47.488Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="hk2dkULFMc4bV6vVj4zL" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-03T06:42:48.867Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="B4LYjKcTTc7N3uyCoKaT" version="21.7.2" type="github">
   <diagram name="Страница — 1" id="cvJ9T2441eXsJ9PKUv6I">
-    <mxGraphModel dx="1050" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1252" dy="486" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -57,7 +57,7 @@
             <mxPoint x="189" y="425" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dkGSF5NSOWRdjdezfaBx-8" value="192.168.0.0/24" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;labelBorderColor=default;" vertex="1" connectable="0" parent="dkGSF5NSOWRdjdezfaBx-7">
+        <mxCell id="dkGSF5NSOWRdjdezfaBx-8" value="192.168.1.0/24" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;labelBorderColor=default;" vertex="1" connectable="0" parent="dkGSF5NSOWRdjdezfaBx-7">
           <mxGeometry x="-0.2618" relative="1" as="geometry">
             <mxPoint x="-29" as="offset" />
           </mxGeometry>
@@ -104,7 +104,7 @@
         <mxCell id="dkGSF5NSOWRdjdezfaBx-22" value="Internet" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="209" y="190" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dkGSF5NSOWRdjdezfaBx-23" value="keenetic&lt;br&gt;&lt;b&gt;192.168.0.1&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="dkGSF5NSOWRdjdezfaBx-23" value="keenetic&lt;br&gt;&lt;b&gt;192.168.1.1&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="159" y="295" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dkGSF5NSOWRdjdezfaBx-24" value="keenetic&lt;br&gt;&lt;b&gt;10.131.5.253&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
